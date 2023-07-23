@@ -1,6 +1,6 @@
 # The `streamlit hello` multipage demo app, on Railway!
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/streamlit/docs/main/python/api-examples-source/mpa-hello/Hello.py)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/nj-Wms?referralCode=ySCnWl)
 
 This project highlights Streamlit's new multipage app functionality. Now deployable directly to Railway!
 
